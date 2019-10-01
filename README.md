@@ -2,7 +2,7 @@
 
 - FONTAINE Alexandre
 - GILLES Mathias
-- OUZID Yanny
+- OUZID Yann
 - LAMIRAND Cyril
 
 # TO DO | List
