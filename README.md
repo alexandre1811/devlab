@@ -2,6 +2,6 @@
 
 Contributeurs :
 - FONTAINE Alexandre
-- Gilles Mathias
+- GILLES Mathias
 - Nom & Prénom
 - LAMIRAND Cyril
