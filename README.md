@@ -3,5 +3,5 @@
 Contributeurs :
 - FONTAINE Alexandre
 - GILLES Mathias
-- Nom & Prénom
+- OUZID Yanny
 - LAMIRAND Cyril
