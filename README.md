@@ -1,7 +1,7 @@
 # DEVLAB | Projet application Mobile
 
 Contributeurs :
-- Fontaine Alexandre
-- Nom & Prénom
+- FONTAINE Alexandre
+- Gilles Mathias
 - Nom & Prénom
 - LAMIRAND Cyril
